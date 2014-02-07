@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/csharp-workspace/credit_agricole_codility"
+		}
+	],
+    "build_systems":
+    [
+        {
+            "selector":"source.cs",
+            "shell":true,
+            "cmd":
+            [
+                "csc.exe",
+                "$file_name"
+            ],
+            "variants":
+            [
+                {
+                    "shell":true,
+                    "cmd":
+                    [
+                        "$file_base_name.exe"
+                    ],
+                    "name" : "Run"
+                }
+            ]
+        }
+    ]
+}

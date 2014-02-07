@@ -1,0 +1,249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fc",
+				"fc_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "credit_agricole_codility.sublime-project",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/csharp-workspace/credit_agricole_codility/Program.cs",
+		"/D/csharp-workspace/credit_agricole_codility/.gitignore",
+		"/D/python-workspace/gamma/gamma.py",
+		"/D/shared/New Text Document.txt",
+		"/D/shared/Program.cs",
+		"/D/python-workspace/arcpyscripttemplate/arcpyscripttemplate.py",
+		"/D/python-workspace/hello-world/hello-world.py",
+		"/D/python-workspace/cnbscripts/importopsdata.py",
+		"/D/python-workspace/definitionQueryLayersFromAttribute/definitionQueryLayersFromAttribute.py",
+		"/D/python-workspace/pyconwaysgame/pyconwaysgame.py",
+		"/D/python-workspace/pyconwaysgame/README.md",
+		"/D/esriproject/cnb/locator/ref_data_style-SingleHouse.xml",
+		"/D/esriproject/cnb/locator/mapping_schema-SingleAddressSearch.xml",
+		"/D/esriproject/cnb/locator/mapping_schema-SingleAddressPolygonCentroid.xml",
+		"/D/esriproject/cnb/locator/mapping_schema-SingleAddress.xml",
+		"/D/esriproject/cnb/locator/USAddress.lot.xml",
+		"/D/python-workspace/tkclock/tkclock.py",
+		"/D/python-workspace/python-conway/python-conway.py",
+		"/D/python-workspace/cnbscripts/test.csv",
+		"/D/python-workspace/python-conway/test2.py",
+		"/D/python-workspace/python-conway/test.py",
+		"/C/Users/azmi/.ssh/known_hosts",
+		"/C/Users/azmi/.ssh/id_rsa.pub",
+		"/D/Git/bin/start",
+		"/D/python-workspace/python-conway/python-conway-reference.py",
+		"/D/python-workspace/python-conway/test2",
+		"/D/python-workspace/python-turtle/python-turtle.py",
+		"/D/python-workspace/python-multiprocessing-test/mp.py",
+		"/D/UniServerZ/www/first_arcgis_app/index.html",
+		"/D/UniServerZ/www/portal_oauth_basic/index.html",
+		"/D/UniServerZ/www/portal_oauth_basic/oauth-callback.html",
+		"/D/UniServerZ/www/portal_oauth_basic/OAuthHelper.js",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/D/hadoop/etc/hadoop/core-site.xml",
+		"/D/hadoop/etc/hadoop/mapred-site.xml",
+		"/D/hadoop/etc/hadoop/yarn-site.xml",
+		"/D/hadoop/etc/hadoop/hdfs-site.xml",
+		"/D/hdfs/hadoop-common-project/hadoop-auth/pom.xml",
+		"/D/python-extension/example/include.h",
+		"/D/python-extension/example/main.cpp",
+		"/D/python-extension/example/Makefile",
+		"/D/java-workspace/hello-world/HelloWorldApp.java",
+		"/D/python-workspace/hello-world/hello-world.sublime-project",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/User/gisdev.sublime-build",
+		"/C/Users/azmi/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/azmi/Documents/WindowsPowerShell/profile.ps1",
+		"/C/Users/azmi/Downloads/distribute_setup.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fullstreetname",
+			"Grid",
+			"board",
+			"signIn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "credit_agricole_codility.sublime-project",
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}

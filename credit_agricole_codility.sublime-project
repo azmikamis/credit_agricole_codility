@@ -8,21 +8,15 @@
     "build_systems":
     [
         {
-            "selector":"source.cs",
-            "shell":true,
-            "cmd":
-            [
-                "csc.exe",
-                "$file_name"
-            ],
+            "name": "C#",
+            "selector": "source.cs",
+            "working_dir": "${project_path:${file_path}}",
+            "cmd": ["C:/Windows/Microsoft.NET/Framework/v4.0.30319/csc", "$file"],
             "variants":
             [
                 {
                     "shell":true,
-                    "cmd":
-                    [
-                        "$file_base_name.exe"
-                    ],
+                    "cmd":["$file_base_name.exe"],
                     "name" : "Run"
                 }
             ]

@@ -11,21 +11,21 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "credit_agricole_codility.sublime-project",
-			"settings":
-			{
-				"buffer_size": 583,
-				"line_ending": "Unix"
-			}
-		}
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "C#",
 	"command_palette":
 	{
-		"height": 110.0,
+		"height": 285.0,
 		"selected_items":
 		[
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"bui",
+				"Build: Run"
+			],
 			[
 				"main",
 				"Snippet: if __name__ == '__main__'"
@@ -64,6 +64,7 @@
 	},
 	"file_history":
 	[
+		"/D/csharp-workspace/credit_agricole_codility/credit_agricole_codility.sublime-project",
 		"/D/csharp-workspace/credit_agricole_codility/Program.cs",
 		"/D/csharp-workspace/credit_agricole_codility/.gitignore",
 		"/D/python-workspace/gamma/gamma.py",
@@ -152,35 +153,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "credit_agricole_codility.sublime-project",
-					"settings":
-					{
-						"buffer_size": 583,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								262
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

@@ -9,7 +9,6 @@ class Solution
         Dictionary<int, int> d = new Dictionary<int, int>();
         foreach (int i in A)
         {
-            Console.WriteLine(i);
             if (!d.ContainsKey(i))
                 d.Add(i, 1);
             else
@@ -29,13 +28,13 @@ class Solution
             return 0;
 
         Array.Sort(A);
-        
+
         int d = A[1] - A[0];
         for (int i = 2; i < A.Length - 1; i++)
         {
             d = Math.Min(d, A[i] - A[i - 1]);
         }
-        
+
         return d;
     }
 
@@ -78,6 +77,6 @@ class Solution
 
     static void Main(string[] args)
     {
-        Console.ReadKey();
+        Console.WriteLine(solution1(new int[] {2, 2, 3, 3, 4, 4}));
     }
 }

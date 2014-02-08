@@ -1,10 +1,11 @@
 {
-	"folders":
-	[
-		{
-			"path": "/D/csharp-workspace/credit_agricole_codility"
-		}
-	],
+    "folders":
+    [
+        {
+            "path": "/D/csharp-workspace/credit_agricole_codility",
+            "file_exclude_patterns": ["*.exe"]
+        }
+    ],
     "build_systems":
     [
         {
@@ -17,7 +18,7 @@
                 {
                     "shell":true,
                     "cmd":["$file_base_name.exe"],
-                    "name" : "Run"
+                    "name" : "Run EXE"
                 }
             ]
         }

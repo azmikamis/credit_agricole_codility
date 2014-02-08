@@ -78,5 +78,6 @@ class Solution
     static void Main(string[] args)
     {
         Console.WriteLine(solution1(new int[] {2, 2, 3, 3, 4, 4}));
+        Console.WriteLine(solution3("ABABABC"));
     }
 }
